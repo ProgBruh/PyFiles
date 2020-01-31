@@ -1,5 +1,4 @@
 from tkinter import Frame, Label, Entry, Button, StringVar, BOTH, messagebox
-import config
 
 import config
 
